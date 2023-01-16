@@ -1,0 +1,417 @@
+body {
+	background-image: url(../img/body-bg.png);
+	text-align: center;
+	font-family: 'Noto Sans', 'sans-serif';
+}
+ 
+.container {
+	margin:0 auto;
+	width:960px;
+	font-size: 100%;
+	line-height: 1.2;
+}
+
+/*  COLOUR PALETTE 
+Dark Green: 3b4834
+Light Green: 6c7355
+Orange: f59444
+
+font-family: 'Heebo', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+*/
+.visuallyhidden {
+	display: none;
+}
+
+header .logo{
+	padding: 10px 0px;
+}
+
+nav li{
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 15px;
+	margin: 25px 0px 25px 30px;
+}
+
+nav a{
+	text-decoration: none;
+	color: #f59444;
+}
+
+nav a:hover{
+	border-bottom: 1px solid #f59444;
+}
+nav ul{
+	display: flex;
+}
+
+header {
+	display: flex;
+}
+/*index css*/
+.banner{
+	background-image: url(../img/banner-bg.jpg);
+	padding-bottom: 75px;
+	display:flex;
+}
+
+.banner .left-column{
+	width: 400px;
+	margin-top: 75px;
+	background-color: #3b4834;
+}
+.banner h2{
+	margin: 25px 25px 15px 25px;
+	text-align: left;
+	font-family: 'Heebo', sans-serif;
+	font-size: 50px;
+	color: white;
+}
+
+.banner p{
+	margin-top: 20px;
+	margin: 0px 25px;
+	text-align: left;
+	font-size: 15px;
+	color: white;
+}
+
+.banner a{
+	font-size: 22px;
+	font-family: 'Heebo', sans-serif;
+	padding: 15px 120px;
+	margin: 20px 10px;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	background-color: #fff;
+	color: #3b4834;
+}
+
+.banner a:hover{
+	background-color: lightblue;
+}
+
+
+.resources h2{
+	margin-top: 40px;
+	font-size: 40px;
+	text-align: left;
+	color: #6c7355;
+}
+
+.guides{
+	text-align: left;
+	padding: 15px 0px 10px 20px;
+	color: white;
+	background-color: #f59444;
+}
+
+.resources > section{
+    background-color: #fff;
+    border: 1px solid #708090;
+	margin: 20px 0px;
+}
+
+.guides-section{
+	display: flex;
+}
+
+.left-image{
+	margin: 20px;
+}
+
+.right-image{
+	margin: 20px;
+}
+
+.resource-par p{
+	margin: 20px 20px 20px 20px;
+	font-family: 'Noto Sans', 'sans-serif';
+	line-height: 2;
+	text-align: left;
+}
+
+/*passes css*/
+
+.passes-banner{
+	background-image: url(../img/banner.jpeg);
+	display:flex;
+	padding-bottom: 81px;
+}
+
+.passes-banner .left-column{
+	width: 450px;
+	padding: 3px;
+	margin: 75px 0px 0px 25px;
+	background-color: rgba(255, 255, 255, 0.76);
+}
+.passes-banner h2{
+	text-align: center;
+	font-family: 'Heebo', sans-serif;
+	font-size: 55px;
+	color: #6c7355;
+}
+
+.day-pass, .annual-pass{
+	font-size: 20px;
+	text-align: left;
+	padding: 20px 0px 20px 20px;
+	color: white;
+	background-color: #f59444;
+}
+
+.passes > section{
+    background-color: #fff;
+    border: 1px solid #708090;
+	margin: 20px 0px;
+}
+
+.passes-par{
+	margin: 25px;
+}
+.passes-par ul{
+	width: 420px;
+	list-style-type: circle;
+	list-style-position: inside;
+	text-align: left;
+}
+
+.passes-par ul li{
+	word-spacing: 5px;
+}
+
+.day-section, .annual-section{
+	color: black;
+	display: flex;
+}
+
+.day-table, .annual-table{
+	margin: 15px;
+}
+
+table, th, td{
+	color: gray;
+	text-align: left;
+	padding: 7px 150px 7px 15px;
+	border: 1px solid;
+}
+
+.available{
+	margin-top: 40px;
+	font-size: 50px;
+	text-align: left;
+	color: #6c7355;
+}
+.sites{
+	text-align: center;
+	font-size: 25px;
+	width: 250px;
+	padding: 15px;
+	margin: 10px;
+	color: white;
+	background-color: #f59444;
+}
+
+
+.top-camping-sites section, .bottom-camping-sites section{
+	border: 1px solid #708090;
+	margin: 15px 27px 30px 0px;
+}
+.top-camping-sites, .bottom-camping-sites{
+	display: flex;
+}
+
+.sites-para p{
+	color: black;
+	margin: 15px 0px 15px 0px;
+}
+.sites-para .season{
+	color: gray;
+}
+
+.reserve{
+	padding: 10px;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	background-color: #6c7355;
+	color: #fff;
+	margin: 30px 0px 30px 0px;
+}
+.reserve:hover{
+	background-color: lightblue;
+}
+
+/*checkout css*/
+.checkout{
+	margin-top: 10px;
+	font-size: 50px;
+	text-align: left;
+	color: #6c7355;
+}
+
+.form h3{
+	text-align: left;
+	font-size: 20px;
+	padding: 15px 0px 10px 20px;
+	color: white;
+	background-color: #f59444;
+}
+.order{
+	width: 250px;
+	margin: 15px 0px 0px 30px;
+}
+
+.orders{
+	text-align: left;
+	margin-left: 5px;
+	line-height: 1.5;
+}
+
+.order-name{
+	color: #6c7355;
+	font-family: 'Heebo', sans-serif;
+	font-size: 20px;
+	margin: 10px 0px;
+}
+
+.orders a{
+	color: gray;
+}
+.billing-form, .shipping-form{
+	margin: 15px 0px;
+	width: 676px;
+	border: 1px solid black;
+}
+
+.form{
+	display: flex;
+	flex-wrap: wrap;
+}
+.required{
+	color: red;
+}
+input,
+button {
+    background-color: #efefef;
+    border: 1px solid #c4c4c4;
+    line-height: 30px;
+    width: 300px;
+    margin: 0px 15px 15px 15px;
+}
+
+label {
+	margin-left: 15px;
+    font-family: Verdana;
+    display: flex;
+    font-size: 14px;
+    color: black;
+}
+
+form {
+	margin: 20px 0 0 0;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+}
+form div{
+	margin: 10px 0px;
+}
+
+.credit-card input{
+	width: 636px;
+	background-image: url(../img/credit-card.png);
+	background-repeat: no-repeat;
+}
+
+.term-condition input{
+	display: flex;
+	width: 10px;
+}
+.term-condition p{
+	display: flex;
+	
+}
+.term-condition{
+	width: 626px;
+	text-align: left;
+	margin: 20px;
+	flex-wrap: wrap;
+}
+.purchase a{
+	text-decoration: none;
+	padding: 10px 0px;
+	display: inline-block;
+	text-align: center;
+	width: 676px;
+	background-color: #6c7355;
+	margin: 30px 0px 30px 0px;
+	color: #fff;
+}
+
+.purchase a:hover{
+	background-color: lightblue;
+}
+
+.img-footer{
+	font-style: italic;
+	padding: 15px 0px;
+	background-color: #f2f2f2;
+	color: #3f3f40;
+}
+.img-footer .bolded{
+	margin: 0px 10px 0px 20px;
+	font-weight: bold;
+}
+.img-footer img{
+	margin-left: 20px;
+}
+.img-footer{
+	display:flex;
+}
+h1,
+h2,
+h3{
+	font-family: 'Heebo', sans-serif;
+}
+
+.bottom-section{
+	background-color: #3b4834;
+}
+
+.bottom-section h2{
+	font-size: 45px;
+	color: white;
+	padding: 40px 0px 20px 0px;
+}
+
+.bottom-section a{
+	text-decoration: none;
+	color: white;
+}
+
+.bottom-section .row1{
+	margin-left: 275px;
+}
+.row1 li{
+	margin: 20px 0px 40px 40px;
+}
+.bottom-section .row2{
+	margin-left: 275px;
+}
+.bottom-section .row1 a:hover, .bottom-section .row2 a:hover{
+	border-bottom: 1px solid #fff;
+}
+.row2 li{
+	margin: 0px 0px 50px 40px;
+}
+
+.bottom-section ul{
+	display: flex;
+}
+footer{
+	background-color: #6c7355;
+	padding: 10px 0px;
+}
+
