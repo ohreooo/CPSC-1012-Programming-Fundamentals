@@ -1,0 +1,15 @@
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\bin\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.exe
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\bin\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.deps.json
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\bin\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.runtimeconfig.json
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\bin\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.dll
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\bin\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.pdb
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.csproj.AssemblyReference.cache
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.GeneratedMSBuildEditorConfig.editorconfig
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.AssemblyInfoInputs.cache
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.AssemblyInfo.cs
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.csproj.CoreCompileInputs.cache
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.dll
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\refint\CPSC1012-Lab5-ReonelDuque.dll
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.pdb
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\CPSC1012-Lab5-ReonelDuque.genruntimeconfig.cache
+F:\CPSC1012\VisualStudio2022Code\Labs\CPSC1012-Lab5-ReonelDuque\obj\Debug\net6.0\ref\CPSC1012-Lab5-ReonelDuque.dll
